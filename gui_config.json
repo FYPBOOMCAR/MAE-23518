@@ -1,0 +1,71 @@
+{
+  "windowSettings": {
+    "width": 1024,
+    "height": 600,
+    "borderless": true,
+    "resizable": false
+  },
+  "controlSettings": {
+    "controlType": "controller"
+  },
+  "keyboardKeybinds": {
+    "speedUp": "w",
+    "speedDown": "s",
+    "steerLeft": "a",
+    "steerRight": "d",
+    "speedBrake": "b"
+  },
+  "controllerKeybinds": {
+    "speedUp": "w",
+    "speedDown": "s",
+    "steerLeft": "a",
+    "steerRight": "d",
+    "speedBrake": "b",
+    "steercenter": "y"
+  },
+  "columnSize": {
+    "col1": 220,
+    "col2": 440
+  },
+  "rowSize": {
+    "label": 30,
+    "progressBar": 20,
+    "checkButton": 30,
+    "toggleButton": 30
+  },
+  "paddingSize": {
+    "labelFrame": 12,
+    "appFrame": 8,
+    "frame": 0
+  },
+  "fontSettings": {
+    "family": "Bahnschrift",
+    "weight": "bold",
+    "size": 10
+  },
+  "camSettings": {
+    "port": 0,
+    "resolutionWidth": 1280,
+    "resolutionHeight": 720,
+    "targetFPS": 60
+  },
+  "imageSettings": {
+    "width": 705,
+    "height": 405,
+    "targetFPS": 60
+  },
+  "graphSettings": {
+    "refreshRate": 2000,
+    "maxPoints": 60,
+    "minPoints": 2,
+    "fontColor": "#51B7EB",
+    "lineColor": "#51B7EB",
+    "axisColor": "#f2f2f2"
+  },
+  "labelSettings": {
+    "refreshRate": 1000
+  },
+  "dataSettings": {
+    "pollingRate": 1000
+  }
+}
