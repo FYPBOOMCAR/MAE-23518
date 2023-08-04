@@ -9,6 +9,7 @@ This project aims to produce a system capable of controlling the vehicle with co
 3. The Run the Raspberry_Main_Final.py code to start.
 
 The controls for the Logitech F710 controller are as follows:
+
 The two calibration sequences should be done at the start of every startup.
 
 | Controls             	| Key ID         	| Key     	|
